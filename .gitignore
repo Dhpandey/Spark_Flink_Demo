@@ -1,0 +1,10 @@
+*/target/**
+*/target/*
+.classpath
+.project
+.settings/
+target/
+.iws
+../.idea/*
+workspace.xml
+tasks.xml
